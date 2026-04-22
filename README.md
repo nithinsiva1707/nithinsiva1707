@@ -79,7 +79,7 @@ Assistive technology for visually impaired users
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinsiva1707&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinsiva1707&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -94,6 +94,8 @@ Assistive technology for visually impaired users
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+
 
 ---
 
