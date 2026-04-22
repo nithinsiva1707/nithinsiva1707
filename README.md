@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Nithin+%F0%9F%91%8B;Backend+Developer;Laravel+%7C+MySQL+%7C+IoT;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Nithin+%F0%9F%91%8B;Computer+Science+Student;Building+Real+World+Projects" />
 </p>
 
 <h3 align="center">Computer Science Student | Fullstack Developer</h3>
@@ -18,7 +18,7 @@
 💡 I build systems combining **fullstack + IoT + real-world impact**  
 
 🚀 Focused on:
-- Laravel & backend systems  
+- Fullstack & AI ML  
 - MySQL & database design  
 - IoT-based solutions  
 
