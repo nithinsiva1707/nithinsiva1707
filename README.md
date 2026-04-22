@@ -1,16 +1,106 @@
-## Hi there 👋
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Nithin+%F0%9F%91%8B;Backend+Developer;Laravel+%7C+MySQL+%7C+IoT;Building+Real+World+Projects" />
+</p>
 
-<!--
-**nithinsiva1707/nithinsiva1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Computer Science Student | Backend Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+🎓 Computer Science @ **Amrita Vishwa Vidyapeetham**  
+
+💡 I build systems combining **backend + IoT + real-world impact**  
+
+🚀 Focused on:
+- Laravel & backend systems  
+- MySQL & database design  
+- IoT-based solutions  
+
+⚡ Approach:
+> Build → Break → Improve → Repeat  
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php" />
+<img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel" />
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🎯 FocusFlow
+Student productivity app with Pomodoro, tasks, and analytics  
+
+### 🌱 Coir Monitoring System
+IoT-based solution for agricultural optimization  
+
+### 🧭 Blind Navigation System
+Assistive technology for visually impaired users  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinsiva1707&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-nithinsiva1707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/nithinssiva1707">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## ⚡ Quote
+
+> "Consistency beats motivation."
+
+---
+
+⭐ If you like my work, consider following!
