@@ -83,6 +83,19 @@ Assistive technology for visually impaired users
 </p>
 
 ---
+## 📅 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/nithinsiva1707" />
+</p>
+
+---
+## 📊 Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinsiva1707&theme=tokyonight" />
+</p>
+
 
 ## 📫 Connect With Me
 
@@ -95,14 +108,8 @@ Assistive technology for visually impaired users
   </a>
 </p>
 
-
-
 ---
+## 💻 Random Quote
 
-## ⚡ Quote
-
-> "Consistency beats motivation."
-
----
-
-⭐ If you like my work, consider following!
+> “The future belongs to those who prepare for it today.”  
+> — Malcolm X
