@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Nithin+%F0%9F%91%8B;Backend+Developer;Laravel+%7C+MySQL+%7C+IoT;Building+Real+World+Projects" />
 </p>
 
-<h3 align="center">Computer Science Student | Backend Developer</h3>
+<h3 align="center">Computer Science Student | Fullstack Developer</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 🎓 Computer Science @ **Amrita Vishwa Vidyapeetham**  
 
-💡 I build systems combining **backend + IoT + real-world impact**  
+💡 I build systems combining **fullstack + IoT + real-world impact**  
 
 🚀 Focused on:
 - Laravel & backend systems  
